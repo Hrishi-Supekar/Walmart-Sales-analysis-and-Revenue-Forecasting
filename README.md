@@ -1,5 +1,5 @@
 # Retail Stores Sales Analysis and Forecasting ( Walmart )
-Streamlit cloud link: https://me-vedant-capstone-v2-app3-gc40xd.streamlit.app/
+Streamlit cloud link: https://hrishi9870-walmart-sales-analysis-and-revenue-forec-app3-ecc2gn.streamlit.app/
 
 
 # Kaggle Competition 
